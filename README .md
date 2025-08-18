@@ -53,9 +53,6 @@ Referência dos Dados
 Os dados utilizados estão disponíveis em:
 challenge_tellecom_x_2/dados_tratados.csv
 
-Autor
-Marcos Wilky
-
 
 Arquivo principal:
 Challenge_Tellecom_X_2.ipynb
